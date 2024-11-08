@@ -10,4 +10,3 @@
 - Support for multiple programming languages, enabling easy adoption and customization.
 - Extensive documentation and code samples to assist developers in understanding and utilizing the age calculation functionality.
 
-Whether you're building a personal project, developing an application that requires age verification, or simply curious about someone's age, the Age Calculator repository provides a reliable solution to accurately determine a person's age based on their date of birth and the current date.
